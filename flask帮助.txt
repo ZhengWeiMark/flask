@@ -15,6 +15,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple/ flask
 ..flask-venv-dir/scripts/activate
 set FLASK_APP=hello.py
 set FLASK_ENV=development
+在项目根目录下
 flask run
 
 http://127.0.0.1:5000/
